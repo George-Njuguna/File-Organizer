@@ -1,5 +1,6 @@
-📂 File Organizer
+##📂 File Organizer
 File Organizer is a simple yet effective Python script designed to automatically sort and organize files on your local machine. Whether it's downloaded documents, work-related media, or personal pictures, this tool helps keep your folders clean and structured without the manual effort.
+
 
 ✨ Features
 Automatically moves files based on content type and context (work vs. personal)
@@ -20,12 +21,14 @@ Sorts into:
 
 Written in Python and runs directly in a Jupyter Notebook for easy inspection and modification
 
+
 🛠️ Technologies Used
 Python 3
 
 Jupyter Notebook
 
 OS & shutil libraries for file management
+
 
 🚀 How It Works
 The script scans specified directories (e.g., Downloads, Pictures, Videos).
